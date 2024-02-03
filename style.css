@@ -22,7 +22,7 @@ body {
 .star {
   border-radius: 50%;
   padding: 5%;
-  background-color: hsl(216, 12%, 8%);
+  background-color: hsl(213, 19%, 25%);
 }
 
 .card-1 {
@@ -49,7 +49,7 @@ body {
 
 .btn {
   padding: 4% 6.5%;
-  background-color: hsl(216, 12%, 8%);
+  background-color: hsl(213, 19%, 25%);
   color: hsl(217, 12%, 63%);
   border-radius: 50%;
 }
